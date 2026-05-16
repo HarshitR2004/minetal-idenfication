@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+tqdm
+
+torch
+torchvision
+torchaudio
+
+torchinfo
+grad-cam
+
+streamlit
