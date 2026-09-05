@@ -1,2 +1,6 @@
 .venv/
+benchmarks/
 examples/
+ground_truth/
+__pycache__/
+*.pyc
